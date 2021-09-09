@@ -1,3 +1,3 @@
-# Full_Stack_SS_LUCID
+# LUCID
 
-To see the final working click <a href="https://safiyatulhoque.github.io/Full_Stack_SS_LUCID/"> HERE <a/>
+###To see the final working click <a href="https://safiyatulhoque.github.io/Full_Stack_SS_LUCID/"> HERE <a/>
